@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactAIRbot/static/css/main.6549afd4.chunk.css",
-    "main.js": "/ReactAIRbot/static/js/main.149b4d99.chunk.js",
-    "main.js.map": "/ReactAIRbot/static/js/main.149b4d99.chunk.js.map",
+    "main.js": "/ReactAIRbot/static/js/main.20c19130.chunk.js",
+    "main.js.map": "/ReactAIRbot/static/js/main.20c19130.chunk.js.map",
     "runtime-main.js": "/ReactAIRbot/static/js/runtime-main.13c4dd06.js",
     "runtime-main.js.map": "/ReactAIRbot/static/js/runtime-main.13c4dd06.js.map",
     "static/css/2.b0c1d779.chunk.css": "/ReactAIRbot/static/css/2.b0c1d779.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.b0c1d779.chunk.css",
     "static/js/2.af395a70.chunk.js",
     "static/css/main.6549afd4.chunk.css",
-    "static/js/main.149b4d99.chunk.js"
+    "static/js/main.20c19130.chunk.js"
   ]
 }
