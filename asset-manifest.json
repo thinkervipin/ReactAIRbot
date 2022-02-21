@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactAIRbot/static/css/main.eac2ffe7.chunk.css",
-    "main.js": "/ReactAIRbot/static/js/main.c2a633f8.chunk.js",
-    "main.js.map": "/ReactAIRbot/static/js/main.c2a633f8.chunk.js.map",
+    "main.css": "/ReactAIRbot/static/css/main.9684e0c8.chunk.css",
+    "main.js": "/ReactAIRbot/static/js/main.7f9bf632.chunk.js",
+    "main.js.map": "/ReactAIRbot/static/js/main.7f9bf632.chunk.js.map",
     "runtime-main.js": "/ReactAIRbot/static/js/runtime-main.13c4dd06.js",
     "runtime-main.js.map": "/ReactAIRbot/static/js/runtime-main.13c4dd06.js.map",
     "static/css/2.b0c1d779.chunk.css": "/ReactAIRbot/static/css/2.b0c1d779.chunk.css",
-    "static/js/2.0259bebf.chunk.js": "/ReactAIRbot/static/js/2.0259bebf.chunk.js",
-    "static/js/2.0259bebf.chunk.js.map": "/ReactAIRbot/static/js/2.0259bebf.chunk.js.map",
+    "static/js/2.0db941d1.chunk.js": "/ReactAIRbot/static/js/2.0db941d1.chunk.js",
+    "static/js/2.0db941d1.chunk.js.map": "/ReactAIRbot/static/js/2.0db941d1.chunk.js.map",
     "index.html": "/ReactAIRbot/index.html",
     "static/css/2.b0c1d779.chunk.css.map": "/ReactAIRbot/static/css/2.b0c1d779.chunk.css.map",
-    "static/css/main.eac2ffe7.chunk.css.map": "/ReactAIRbot/static/css/main.eac2ffe7.chunk.css.map",
-    "static/js/2.0259bebf.chunk.js.LICENSE.txt": "/ReactAIRbot/static/js/2.0259bebf.chunk.js.LICENSE.txt",
+    "static/css/main.9684e0c8.chunk.css.map": "/ReactAIRbot/static/css/main.9684e0c8.chunk.css.map",
+    "static/js/2.0db941d1.chunk.js.LICENSE.txt": "/ReactAIRbot/static/js/2.0db941d1.chunk.js.LICENSE.txt",
     "static/media/capture.f7399a86.svg": "/ReactAIRbot/static/media/capture.f7399a86.svg",
     "static/media/co-working.bb18fea0.svg": "/ReactAIRbot/static/media/co-working.bb18fea0.svg",
     "static/media/designer.323aa52d.svg": "/ReactAIRbot/static/media/designer.323aa52d.svg",
@@ -19,13 +19,14 @@
     "static/media/gaming.a6af968f.svg": "/ReactAIRbot/static/media/gaming.a6af968f.svg",
     "static/media/home.82e0160e.svg": "/ReactAIRbot/static/media/home.82e0160e.svg",
     "static/media/logo2.80a07f67.jpg": "/ReactAIRbot/static/media/logo2.80a07f67.jpg",
-    "static/media/programming.82e0160e.svg": "/ReactAIRbot/static/media/programming.82e0160e.svg"
+    "static/media/programming.82e0160e.svg": "/ReactAIRbot/static/media/programming.82e0160e.svg",
+    "static/media/Hero.css": "/ReactAIRbot/static/media/robot.fba5e884.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.13c4dd06.js",
     "static/css/2.b0c1d779.chunk.css",
-    "static/js/2.0259bebf.chunk.js",
-    "static/css/main.eac2ffe7.chunk.css",
-    "static/js/main.c2a633f8.chunk.js"
+    "static/js/2.0db941d1.chunk.js",
+    "static/css/main.9684e0c8.chunk.css",
+    "static/js/main.7f9bf632.chunk.js"
   ]
 }
