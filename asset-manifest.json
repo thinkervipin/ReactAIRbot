@@ -1,34 +1,27 @@
 {
   "files": {
-    "main.css": "/ReactAIRbot/static/css/main.2b3e0255.chunk.css",
-    "main.js": "/ReactAIRbot/static/js/main.f6809f7c.chunk.js",
-    "main.js.map": "/ReactAIRbot/static/js/main.f6809f7c.chunk.js.map",
+    "main.css": "/ReactAIRbot/static/css/main.eae00e40.chunk.css",
+    "main.js": "/ReactAIRbot/static/js/main.1a8e38f7.chunk.js",
+    "main.js.map": "/ReactAIRbot/static/js/main.1a8e38f7.chunk.js.map",
     "runtime-main.js": "/ReactAIRbot/static/js/runtime-main.13c4dd06.js",
     "runtime-main.js.map": "/ReactAIRbot/static/js/runtime-main.13c4dd06.js.map",
     "static/css/2.b0c1d779.chunk.css": "/ReactAIRbot/static/css/2.b0c1d779.chunk.css",
-    "static/js/2.9c0bac36.chunk.js": "/ReactAIRbot/static/js/2.9c0bac36.chunk.js",
-    "static/js/2.9c0bac36.chunk.js.map": "/ReactAIRbot/static/js/2.9c0bac36.chunk.js.map",
+    "static/js/2.d9f23e3a.chunk.js": "/ReactAIRbot/static/js/2.d9f23e3a.chunk.js",
+    "static/js/2.d9f23e3a.chunk.js.map": "/ReactAIRbot/static/js/2.d9f23e3a.chunk.js.map",
     "index.html": "/ReactAIRbot/index.html",
     "static/css/2.b0c1d779.chunk.css.map": "/ReactAIRbot/static/css/2.b0c1d779.chunk.css.map",
-    "static/css/main.2b3e0255.chunk.css.map": "/ReactAIRbot/static/css/main.2b3e0255.chunk.css.map",
-    "static/js/2.9c0bac36.chunk.js.LICENSE.txt": "/ReactAIRbot/static/js/2.9c0bac36.chunk.js.LICENSE.txt",
-    "static/media/capture.f7399a86.svg": "/ReactAIRbot/static/media/capture.f7399a86.svg",
-    "static/media/co-working.bb18fea0.svg": "/ReactAIRbot/static/media/co-working.bb18fea0.svg",
-    "static/media/designer.323aa52d.svg": "/ReactAIRbot/static/media/designer.323aa52d.svg",
-    "static/media/firmware.b1f63213.svg": "/ReactAIRbot/static/media/firmware.b1f63213.svg",
-    "static/media/gaming.a6af968f.svg": "/ReactAIRbot/static/media/gaming.a6af968f.svg",
-    "static/media/home.82e0160e.svg": "/ReactAIRbot/static/media/home.82e0160e.svg",
+    "static/css/main.eae00e40.chunk.css.map": "/ReactAIRbot/static/css/main.eae00e40.chunk.css.map",
+    "static/js/2.d9f23e3a.chunk.js.LICENSE.txt": "/ReactAIRbot/static/js/2.d9f23e3a.chunk.js.LICENSE.txt",
     "static/media/logo2.80a07f67.jpg": "/ReactAIRbot/static/media/logo2.80a07f67.jpg",
     "static/media/logo3.81d41258.jpg": "/ReactAIRbot/static/media/logo3.81d41258.jpg",
-    "static/media/programming.82e0160e.svg": "/ReactAIRbot/static/media/programming.82e0160e.svg",
     "static/media/robog.2d099293.jpg": "/ReactAIRbot/static/media/robog.2d099293.jpg",
-    "static/media/Hero.css": "/ReactAIRbot/static/media/robot.fba5e884.jpg"
+    "static/media/Hero.css": "/ReactAIRbot/static/media/robot1.713c3cce.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.13c4dd06.js",
     "static/css/2.b0c1d779.chunk.css",
-    "static/js/2.9c0bac36.chunk.js",
-    "static/css/main.2b3e0255.chunk.css",
-    "static/js/main.f6809f7c.chunk.js"
+    "static/js/2.d9f23e3a.chunk.js",
+    "static/css/main.eae00e40.chunk.css",
+    "static/js/main.1a8e38f7.chunk.js"
   ]
 }
