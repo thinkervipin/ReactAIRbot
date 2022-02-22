@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ReactAIRbot/static/css/main.eae00e40.chunk.css",
-    "main.js": "/ReactAIRbot/static/js/main.1a8e38f7.chunk.js",
-    "main.js.map": "/ReactAIRbot/static/js/main.1a8e38f7.chunk.js.map",
+    "main.js": "/ReactAIRbot/static/js/main.da245cdb.chunk.js",
+    "main.js.map": "/ReactAIRbot/static/js/main.da245cdb.chunk.js.map",
     "runtime-main.js": "/ReactAIRbot/static/js/runtime-main.13c4dd06.js",
     "runtime-main.js.map": "/ReactAIRbot/static/js/runtime-main.13c4dd06.js.map",
     "static/css/2.b0c1d779.chunk.css": "/ReactAIRbot/static/css/2.b0c1d779.chunk.css",
-    "static/js/2.d9f23e3a.chunk.js": "/ReactAIRbot/static/js/2.d9f23e3a.chunk.js",
-    "static/js/2.d9f23e3a.chunk.js.map": "/ReactAIRbot/static/js/2.d9f23e3a.chunk.js.map",
+    "static/js/2.6d3b0d37.chunk.js": "/ReactAIRbot/static/js/2.6d3b0d37.chunk.js",
+    "static/js/2.6d3b0d37.chunk.js.map": "/ReactAIRbot/static/js/2.6d3b0d37.chunk.js.map",
     "index.html": "/ReactAIRbot/index.html",
     "static/css/2.b0c1d779.chunk.css.map": "/ReactAIRbot/static/css/2.b0c1d779.chunk.css.map",
     "static/css/main.eae00e40.chunk.css.map": "/ReactAIRbot/static/css/main.eae00e40.chunk.css.map",
-    "static/js/2.d9f23e3a.chunk.js.LICENSE.txt": "/ReactAIRbot/static/js/2.d9f23e3a.chunk.js.LICENSE.txt",
+    "static/js/2.6d3b0d37.chunk.js.LICENSE.txt": "/ReactAIRbot/static/js/2.6d3b0d37.chunk.js.LICENSE.txt",
     "static/media/logo2.80a07f67.jpg": "/ReactAIRbot/static/media/logo2.80a07f67.jpg",
     "static/media/logo3.81d41258.jpg": "/ReactAIRbot/static/media/logo3.81d41258.jpg",
     "static/media/robog.2d099293.jpg": "/ReactAIRbot/static/media/robog.2d099293.jpg",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.13c4dd06.js",
     "static/css/2.b0c1d779.chunk.css",
-    "static/js/2.d9f23e3a.chunk.js",
+    "static/js/2.6d3b0d37.chunk.js",
     "static/css/main.eae00e40.chunk.css",
-    "static/js/main.1a8e38f7.chunk.js"
+    "static/js/main.da245cdb.chunk.js"
   ]
 }
